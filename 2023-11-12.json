@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Rowe",
+  "age": 18,
+  "address": {
+    "street": "Ugoiva Heights",
+    "city": "Kotitnad",
+    "state": "KY",
+    "zip": "56366"
+  },
+  "contact": {
+    "phone": "(614) 475-1254",
+    "servicePhone": "800211333"
+  },
+  "birthday": "1974-05-18T20:51:27.726Z",
+  "ip": "86.165.111.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Rijne lom warazbiw few za ujijodoc alite ge ar va gaghipun voutevo mapo. Du dawzaiki zi mi tecuoj amideuv maj nocepuji guf zu roh nepucog. Epahoc ulragohu esine mu biwfadwam moba zuesibiv rewjiza lifuvod ezze japawcu bo utu an.",
+    "bio": "Kedom uzupol cub hijzopji vab fo faksarfu donipki fepamraf ho sesel losa. Ra tovuza ivanuf ce bez afutta ko gibiwap tad eme ze jepbesi. Wamsakwo ucowo tipor foleged puvoju jufteb be neboszu fa dig asipi jaj no isuco. Lakida buof tul cublo vopi divrozed malwobu tak joniper ovi ujjabfod guwo pefudwan detkav pujbono diudariw urhuram."
+  },
+  "apiKey": "d491a473ef3b008d3ad52563a339998df1eaf47a515ff208c75f22a7541c98bb",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
