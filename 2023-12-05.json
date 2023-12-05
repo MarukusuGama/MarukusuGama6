@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Cannon",
+  "age": 38,
+  "address": {
+    "street": "Hihri Way",
+    "city": "Obievje",
+    "state": "PA",
+    "zip": "79412"
+  },
+  "contact": {
+    "phone": "(254) 829-2579",
+    "servicePhone": "800612351"
+  },
+  "birthday": "2000-01-03T09:36:17.746Z",
+  "ip": "184.173.22.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Cik sinaz jiro uhvesmoj diddaj ajeaku gaidein ervadmat eva tiho jumle hubcuvuz kab pol. Luzor zanahipob laklozi sib ga jerom vuhsud lo ze sifukuhu upouwa lu ine bibwobwu inkico ul ihu jovtugud. Tal werebuuha guz hulmu omilali esimaidu fawge perunud icwomfe piligulo rov na mojumju zoh. Acoeruud meruc udaco ipcuedi wit noru hi ma rawinwe wejolta sezuvmu burus ozpikaja pumapra vafzab voof jumuluf tiduzusa. Goen burfufoj be hemih opevenam ji enumoplo haj vulahve azaep cetonocu ha. Ehboido sefvat judpuiza fohlegew vudun one korgec hihsopse fanivuh op doac ohu.",
+    "bio": "Rilten oz kadecbe ijuza ofhis heladfi lobhuwtuh vimeg wobjabzir du pajco af wivunzo da ejtor sam lopo se. Kupudotal abiakaonu mom go ic huzam baslo mepuf sif vefi dabehziv zeli wodneviz pod cuhap naz ve. Vumo cupriepa adeil obewecfij tekig fenovmem zija wa vigugu tikga mo bewa."
+  },
+  "apiKey": "fcf6399aa8c1f4d468873876c44c1b266863ddab25579f98122fd99343cc4718",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
