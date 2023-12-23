@@ -1,0 +1,26 @@
+{
+  "name": "Adele Crawford",
+  "age": 43,
+  "address": {
+    "street": "Kubo Circle",
+    "city": "Petiknev",
+    "state": "MN",
+    "zip": "85370"
+  },
+  "contact": {
+    "phone": "(665) 903-2386",
+    "servicePhone": "800548762"
+  },
+  "birthday": "1978-12-07T17:59:09.431Z",
+  "ip": "198.158.53.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Jerofu nuzofsut zowus iz talza oh lanvo lidpiwa kebhez mide go winukna. Roubu ere uvovi duhogite woucwuc ir ozavemi ro sodo juama vur nugidiz posomore cu. Tobif kuze fi emecawor famojco bozvehoh soj osuheoju ifunof wovugte re ehe et kurodsol da te egika.",
+    "bio": "Ozu wifit gud wu avjo owve cip hu moceremu otaolu ahofe tal sej sesfo jipzuwu invonhas. Oha gomu civneuha surves ube hi vuafoti asfamup mausiri ko holgelje doop cifhaf dut ko wojecole vub. Vu inazid efu mireb dog vatgovo ela vihtusov falsowmo ce atewi pu ricohpad repib cuudi uvrov hi hoik. Wi wimba is lu epo ekuja titiwil bijalo bezidzu od we kufajgeg unzanlik ce."
+  },
+  "apiKey": "e5c8a3bde1cd3bc7af3f7d9a0b5c8e9cbb8671da1f3595f0b6f4ce4672cfad79",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
