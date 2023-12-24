@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Vargas",
+  "age": 31,
+  "address": {
+    "street": "Toma Court",
+    "city": "Uttivan",
+    "state": "LA",
+    "zip": "52896"
+  },
+  "contact": {
+    "phone": "(767) 756-9261",
+    "servicePhone": "800859269"
+  },
+  "birthday": "2005-03-05T18:44:36.780Z",
+  "ip": "169.2.43.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Tukwof heirmu necowa rut tudracwa uhu jufaog elniw acjuled ha pe letdan. Dej tuv piz gun ezgep fil wogagse ag zitnovfi semos ogohizo oc upicom derhuha sasasiw. Ammak ewbih umba fagemo ojaki imo coh ciefori lanfunba kot mujmas nalabo gohisuuri ulnawiku pa fozuz jej favagar. Re negded ivefojho kicpa womvi paj soppumo faunehi te wuve vu rassucni colkompi.",
+    "bio": "Os mo fegnoceh tozpe pos hulnef gigeb gummuhfic ginmuhsa ega wilcuwovi bez top wo okuni. Wizinmaf wid tinuwle omozukho ped cehacu foven ta caru vesre ewgabab gema ocjeh zij. Nob voobilu cu wi oc kufalen wurdefi vedin jetejoap jo lanafi pevenibu ez."
+  },
+  "apiKey": "470819f046d28300fdd885d7038f5fdf066f526b14ce2b3599e60d420e49c095",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
