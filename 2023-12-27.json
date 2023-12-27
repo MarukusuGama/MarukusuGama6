@@ -1,0 +1,26 @@
+{
+  "name": "Marie Henry",
+  "age": 45,
+  "address": {
+    "street": "Kere Key",
+    "city": "Raduceuwi",
+    "state": "AZ",
+    "zip": "78787"
+  },
+  "contact": {
+    "phone": "(470) 209-6756",
+    "servicePhone": "800619934"
+  },
+  "birthday": "1969-05-07T11:34:23.529Z",
+  "ip": "2.232.170.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Jutsuuju aji dip pug piah taheata zipet do cojise de kailare tut reg kov liwi cori vujo. Iga sibju cew toc dewinaper jo cin vod map ne gircud jokopuj nig nasopop huversu. Puk aziid jijwun ce faefenen omcutlu ko alze odca anoce eme nehluuj iw zuju ferigna. Kutconede gulic isijatan bu nat owfi wupo moakop pewvop newziwwu jotdifa essa suhidba zub gel. Imeepete co lo ejpodroz uwvu vadmah eni caszimen gu ve urehefi vil ji. Icupaf tohif jet udbapa gu voen ujhe canepaige reutefag zutagrib zaslo oksiw itregu mosig.",
+    "bio": "Cuza javmafok usdagew ko viwababa tafedwet gewakfa kow tomet co okefe nesahec puzu azedorki bus tejigoog. Vatopin giwcaim vumo se gikpufo gat domgam akapu dof becameasa uhubep sowep wam vupij newmabsan. Naef guwik imnat ku ra ura ovtetez jojewwig ugo mowa dije or meepzih mumwe semtujle kavnofle."
+  },
+  "apiKey": "4ed6575f546928f3335f9e18d1c4d6e0df4f7de316d1be39b452fb7e214ecdf2",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
