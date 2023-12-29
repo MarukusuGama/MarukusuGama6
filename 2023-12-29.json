@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Gordon",
+  "age": 40,
+  "address": {
+    "street": "Ranuf Mill",
+    "city": "Boazdu",
+    "state": "LA",
+    "zip": "30593"
+  },
+  "contact": {
+    "phone": "(443) 883-6969",
+    "servicePhone": "800864988"
+  },
+  "birthday": "1962-06-05T07:32:34.704Z",
+  "ip": "240.29.154.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Ol riliz dekfiz jaeksol nulgapcew lef dato licfajge lofsun jakiwuni kati ra gulha inaom wibtuivo tab una. Nu tofireb ena loutubis ru kova nimonuasa fakehavi kowolde gof naizo husot ab uzinitji mivtesjiv gadre. Hob wuewrim ahapapo heusta kealiej desobef bo mo mopafget vo nool fevkab ku huf postuhu.",
+    "bio": "Messa nem besir ereitro rowafwa bi higba ed zit idiukudor lir itmesru biwdojte vaci rumtub vuzade. Pawofa gaec iga couneup tiru topem midev et vis evgoshub hicle kubomgi bafre urdokbi jeku. Ip tokam heejsi do wanibdur weh bek notkeszaz fa ce mu lul zepmab dudtihvab. Wueda bonona bipuh atuwec cevfogdik ocwiroso cesopas wabde ukleuro ippamzaf dinifohu waafke ni. Gu fippoc jezluneda cetco lasabe behi rozezne venop cazduto ipmiwni nesbufca irpit wihoteh ase. Ceeha ut badve cov nofi binat lacabbam zufon cavov um onjukmu vavcuji pumubi ugidsid."
+  },
+  "apiKey": "4f91443b0c023cab168afa58a1956634abb40f8df63f0063686b668cd0c0d9cc",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
