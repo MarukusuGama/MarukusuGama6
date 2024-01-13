@@ -1,0 +1,26 @@
+{
+  "name": "Christian Salazar",
+  "age": 28,
+  "address": {
+    "street": "Nidne Heights",
+    "city": "Isfomres",
+    "state": "CO",
+    "zip": "45441"
+  },
+  "contact": {
+    "phone": "(379) 213-1702",
+    "servicePhone": "800898577"
+  },
+  "birthday": "1991-12-13T23:11:53.897Z",
+  "ip": "240.238.74.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Va ducaeti nud muca jumeja dinhuve vud wekeji lut ud gu ohi ji piwpik. Porunil hon topimu ojo uluvevgar odva rupu tenemce ug ah kecewuc te. Uk joliaj tic zagwumu olimuluv jinu umdanka voniv pih uleimuwe zodfejid boneob. Ismese dec ikeup akci fositgov jofize mu ziiz zugkemaka palkegu juw jofujuva aleobimi. Taburi er mip luururok emvodlo wobpeb rol zalo nebaij kogjumba focha rat futlinbad ipiohe bage pepdijsub tojjeh.",
+    "bio": "Tacowit iduci ereda pe towcapaba somdehit watbo ipiguf uto ojeob naj ojfolzek rudikgo. Ru tivirfo hi ge tupce fip nucdo muvgiag dolal kepsuome ajun bunji idpil waweb. Jibdoftu to mij vom dawcigpuw az hahmesrog ledalwis evga momtoce powte perendah gu jigmo kegimkuf ehulu ha."
+  },
+  "apiKey": "543ec417b29c7eed127f438d6228223832d5ee69d34750c2432b13d3303a8c51",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
