@@ -1,0 +1,26 @@
+{
+  "name": "Bill Floyd",
+  "age": 47,
+  "address": {
+    "street": "Rubgu Parkway",
+    "city": "Sidmili",
+    "state": "TX",
+    "zip": "71398"
+  },
+  "contact": {
+    "phone": "(658) 850-6528",
+    "servicePhone": "800861175"
+  },
+  "birthday": "1965-07-17T12:05:47.510Z",
+  "ip": "77.84.14.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Vap simartub hot vaho ponud wak duroto zel hu uto gu fituk. Secsaj awdobiho duon lidfo ta lut tomumke agfof ci ledpoc seglopis adidel pec ureadiuf. Gi patujev jobun gakel soewmo rinfup totsotran hap pe faf wisgi evberpom.",
+    "bio": "Bogo ju tuw uvso saorpel ige pukutle kawpuvi feuzaga jogvozla zovve bunin. Huhu guk aczuzge azona gugviw ji tup kevwophob wa set diwada tovi vuzelno zeknub ke ufalarup. Dibeniwu uwesel no kodop bo nemnoci cuva fo ku hetvezep wev roasa jaec dewug fivana."
+  },
+  "apiKey": "e6842966c7864a8e7252bd039099672e9e1785e46f58c85e1795910e66673b8f",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
