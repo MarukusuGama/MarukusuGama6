@@ -1,0 +1,26 @@
+{
+  "name": "Luis Little",
+  "age": 31,
+  "address": {
+    "street": "Hizna Drive",
+    "city": "Azgagwab",
+    "state": "KS",
+    "zip": "62028"
+  },
+  "contact": {
+    "phone": "(400) 889-7733",
+    "servicePhone": "800219122"
+  },
+  "birthday": "1987-08-06T10:36:06.000Z",
+  "ip": "77.224.198.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Mina pu towu feseltun bokugu buvule ma rip ik womic we zabhiso fo maok fiuceso de bu. Kividde ho boodo koj mak pojiju opuegatem avoesu ke tulvaw ge tasza losbute birufi filjitgut gutcohin we. Zon su kiahsef cuhperruj zonedaz wonosir miezkur omo pazhi vivedoz zog vaojijac voumojo voraw jurnordo pedaz zefcuzken. Hagakla lepli gat aruejodep wom geoca akepas pikloc norojnah felesmag kisfum moarilad tenifeupe hoso ridmuf ratheapu.",
+    "bio": "Jah vizek ogujli buderi wari imokmuz kup jezsar vozton umide vorehi ra tor fas uzetaw vafsic. Nakokfow pogubic fubbeshat ajfigak vof nulik oghiddar lepmo unmacrew ale kilehguh lesva ilavu fig. Wiesi ovri zudgaf voca mudu lavri wamkojmo zewipeh ejruz jaj irzov evehekup."
+  },
+  "apiKey": "abf1c263b2e7fbcc9d55cae19308302188228fd917bdf9b0eb95331c1039bcc2",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
