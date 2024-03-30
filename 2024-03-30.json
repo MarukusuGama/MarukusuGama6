@@ -1,0 +1,26 @@
+{
+  "name": "Fred Reyes",
+  "age": 20,
+  "address": {
+    "street": "Gubori Mill",
+    "city": "Bomhilut",
+    "state": "VA",
+    "zip": "30412"
+  },
+  "contact": {
+    "phone": "(788) 535-7466",
+    "servicePhone": "800796458"
+  },
+  "birthday": "1979-10-22T22:04:19.865Z",
+  "ip": "94.127.155.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Liaruze dutuw lozwug ziwatiloz tanwev wicalaris ekimip sipodi icbodim tisaane harah muh tiju kod. Oz ozuofoba sih zowi vure dez wese hefuz as veihija oso nev hugfom de sajgum ajgozfoh. Onusuvja polcefgo efa raj kinim kotu so da gutucaj zusic zaso vuoh puw maihzer koh winonokuh oha hop.",
+    "bio": "Teutwo geb emeizoho haw doco lev lashap nihsanuz nigjo bawawjez la naj gihvuwmo zutje dekrow wa. Pusepmo gudsoh ulsob fo oga gig onukga hitkopaf soiwca ipeelafoh hofkun isucer vuaf poknemmak kub uk. Nobit dijada pok weep hofapid duewe ipehina higku kuteruh gomzab mu zizo mawu. Gusgam hujhed butovzob edomovoci ved fo oce isociuve gu tuzijjah sem fovuc tomanhu. Ome bupluvsi nomen opeji hiot totmapkeb fa pa uvi lunebhos nutsugoz enidali ogokivus zasa rufube to. Wudda mocoher ci valanuf poz kot eda jeeb wirzelfa umri mopsew tawu. Par rugiumi cuwe romi dentajof igevemuj vipra afsinsus hamefcas hug zi hap gottu mi nehi lilkof."
+  },
+  "apiKey": "5e7349d539da7ffaa6bc0ecb54f0b4f8f80b335d1cc0b5e30d0487871f95717e",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
