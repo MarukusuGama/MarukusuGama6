@@ -1,0 +1,26 @@
+{
+  "name": "William McGuire",
+  "age": 31,
+  "address": {
+    "street": "Rusef Turnpike",
+    "city": "Jitepiaji",
+    "state": "AZ",
+    "zip": "23519"
+  },
+  "contact": {
+    "phone": "(770) 673-5029",
+    "servicePhone": "800145644"
+  },
+  "birthday": "1996-05-22T13:54:52.532Z",
+  "ip": "37.59.36.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Nijig lof jekim juzcoz jujsuw ukjoona uwoog ni nec juc ib suv we piwpubah. Kusbolvo gij etovuv avi jobhitu zosek ufgimhuz up vecez caabeh jam uru gerso. Pe bafzikem doeju maruloco otetohos vir avuisvo ganuh julren eje wo kilvueco. Zagiw nuzacar juleava huwupa urnankiv fekjuha filo diregeca lit laja lezaghe vuto liiroca bojred hog bahte co.",
+    "bio": "Pa ikemlo reuwmi bap voh vi redooj kodpamu oneku ga pegi sab in jidril uf azpijoz. Ik bajjosan ci zigwe vokar kiti edu rod lokmuw cogbuhku ota lawajmeb pos wi sow acijenel. Lujsece kastaj wi icauma cizo sonzehos ko pefawev sedcohci ri ni fuskioli kolupni niemki vafofaso ojo janlovaga ize."
+  },
+  "apiKey": "c96c7d8bb6cc246e21532929f63e87582c2b46275ea67639186f6e4f24b02183",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
